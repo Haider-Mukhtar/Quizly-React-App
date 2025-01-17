@@ -5,8 +5,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        background: "",
-        foreground: "",
+        heading: "#9800F5",
+        shadow: "#45DD9566",
+      },
+      fontFamily: {
+        roboto: ["Roboto", "ital"],
+        abril: ["Abril", "serif"],
+        inter: ["Inter", "ital"],
+        rosario: ["Rosario", "ital"],
       },
     },
   },
